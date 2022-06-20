@@ -327,7 +327,7 @@ img[src *= "episode"] {
     float: right;
     display: flex;
     width: 180px;
-    margin-right: 20%;
+    margin-right: 40%;
     margin-top: -50px;
 }
 
@@ -335,7 +335,7 @@ img[src *= "episode"] {
     float: right;
     display: flex;
     width: 170px;
-    margin-right: 20%;
+    margin-right: 40%;
     margin-top: -30px;
     transform: scaleX(-1);
 }
